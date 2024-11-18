@@ -18,7 +18,7 @@
 
 ## Installation
  Clone this repository:
-   git clone https://github.com/your-username/ Roll-n-Win-Game.git
+   git clone https://github.com/your-username/ Dice-Game.git
 
 Dicee-Game/
 ├── index.html          # Main HTML file
